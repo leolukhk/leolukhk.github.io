@@ -1,8 +1,6 @@
 ---
 published: false
-title: New Post
 layout: post
+title: New Post
 ---
-??
-
-
+中文
